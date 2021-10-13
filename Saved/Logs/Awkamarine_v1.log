@@ -2025,3 +2025,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.13-02.47.26:828][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.10.13-02.47.26:857][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2021.10.13-02.47.27:033][500]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.10.13-02.49.21:118][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Domos_Sphere)
+[2021.10.13-02.49.24:039][647]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Cuarto)
+[2021.10.13-02.49.42:578][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Domos_Techo_003)
+[2021.10.13-02.49.48:536][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Domos_Domo2_001)
+[2021.10.13-02.49.49:865][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Cube_005)
+[2021.10.13-02.49.50:371][ 51]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Parte1_002)
+[2021.10.13-02.49.50:737][ 82]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Muros_003)
+[2021.10.13-02.49.53:680][343]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Cube_004)
+[2021.10.13-02.49.54:172][370]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Escalera_002)
+[2021.10.13-02.49.54:972][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Plane_002)
+[2021.10.13-02.49.58:178][727]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2021.10.13-02.50.18:208][655]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Techo_003)
+[2021.10.13-02.50.22:703][ 86]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Suelo_003)
+[2021.10.13-02.50.37:586][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Domos_Techo_003)
+[2021.10.13-02.50.38:934][581]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Suelo_003)
+[2021.10.13-02.50.50:609][667]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.13-02.50.52:603][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Domos_Techo_001)
+[2021.10.13-02.50.53:213][907]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.13-02.50.54:466][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Domos_Techo_001)
+[2021.10.13-02.50.55:429][107]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Muros_001)
+[2021.10.13-02.50.56:070][162]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Domo2)
+[2021.10.13-02.50.56:972][243]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Cube_001)
+[2021.10.13-02.50.57:813][315]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Parte1)
+[2021.10.13-02.51.02:285][699]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Suelo_001)
+[2021.10.13-02.51.06:556][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Plane)
+[2021.10.13-02.51.09:319][320]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Cube)
+[2021.10.13-02.51.12:079][579]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Escalera)
+[2021.10.13-02.51.12:819][645]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Cube)
+[2021.10.13-02.51.25:503][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Domos_Techo_002)
+[2021.10.13-02.51.25:990][816]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Muros_002)
+[2021.10.13-02.51.29:193][ 89]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Suelo_002)
+[2021.10.13-02.51.30:677][227]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Parte1_001)
+[2021.10.13-02.51.31:026][244]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Sphere_001)
+[2021.10.13-02.51.31:757][306]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Cube_003)
+[2021.10.13-02.51.34:502][529]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Cube_002)
+[2021.10.13-02.51.35:059][579]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Escalera_001)
+[2021.10.13-02.51.37:821][833]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Domos_Plane_003)
+[2021.10.13-02.51.51:656][143]Cmd: DELETE
+[2021.10.13-02.51.51:656][143]Cmd: ACTOR DELETE
+[2021.10.13-02.51.51:665][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.10.13-02.51.51:731][143]LogEditorActor: Deleted 0 Actors (0.075 secs)
+[2021.10.13-02.52.06:932][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/Level_2" FILE="C:/Users/user/Documents/GitHub/xd/akwamarine/Content/Niveles/Level_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.13-02.52.06:939][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.10.13-02.52.07:039][840]LogSavePackage: Moving 'C:/Users/user/Documents/GitHub/xd/akwamarine/Saved/Level_208D9FD7E4D8ED445BE4D7C9FD27662A1.tmp' to 'C:/Users/user/Documents/GitHub/xd/akwamarine/Content/Niveles/Level_2.umap'
+[2021.10.13-02.52.07:060][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/Level_2_BuiltData" FILE="C:/Users/user/Documents/GitHub/xd/akwamarine/Content/Niveles/Level_2_BuiltData.uasset" SILENT=true
+[2021.10.13-02.52.07:125][840]LogSavePackage: Moving 'C:/Users/user/Documents/GitHub/xd/akwamarine/Saved/Level_2_BuiltData0B2C8D614F5A2CB0F83F13A62DABB25F.tmp' to 'C:/Users/user/Documents/GitHub/xd/akwamarine/Content/Niveles/Level_2_BuiltData.uasset'
+[2021.10.13-02.52.07:138][840]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.13-02.52.07:138][840]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Niveles/Level_2_BuiltData.Level_2_BuiltData
+[2021.10.13-02.52.07:138][840]LogContentValidation: Display: Validating World /Game/Niveles/Level_2.Level_2
